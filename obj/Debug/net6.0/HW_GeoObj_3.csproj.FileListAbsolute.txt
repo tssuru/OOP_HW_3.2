@@ -1,0 +1,14 @@
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.AssemblyInfoInputs.cache
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.AssemblyInfo.cs
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.csproj.CoreCompileInputs.cache
+C:\Users\home\VS_projects\HW_GeoObj_3\bin\Debug\net6.0\HW_GeoObj_3.exe
+C:\Users\home\VS_projects\HW_GeoObj_3\bin\Debug\net6.0\HW_GeoObj_3.deps.json
+C:\Users\home\VS_projects\HW_GeoObj_3\bin\Debug\net6.0\HW_GeoObj_3.runtimeconfig.json
+C:\Users\home\VS_projects\HW_GeoObj_3\bin\Debug\net6.0\HW_GeoObj_3.dll
+C:\Users\home\VS_projects\HW_GeoObj_3\bin\Debug\net6.0\HW_GeoObj_3.pdb
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.dll
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\refint\HW_GeoObj_3.dll
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.pdb
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\HW_GeoObj_3.genruntimeconfig.cache
+C:\Users\home\VS_projects\HW_GeoObj_3\obj\Debug\net6.0\ref\HW_GeoObj_3.dll
